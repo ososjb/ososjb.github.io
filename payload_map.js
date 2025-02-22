@@ -6,7 +6,7 @@ const payload_map =
             fileName: 'etaHEN.bin',
             author: 'LightningMods, Buzzer, sleirsgoevy, ChendoChap, astrelsky, illusion, CTN, SiSTR0, Nomadic',
             source: 'https://github.com/LightningMods/etaHEN',
-            version: '1.9b',
+            version: '2.0b',
         },
         {
             displayTitle: 'ps5-kstuff',
